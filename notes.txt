@@ -1,4 +1,4 @@
-
+Batch 10 note.txt are all ready
 What is framework?
 It gives us an organized folder structure to follow while writing the code.
 
